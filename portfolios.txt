@@ -1,0 +1,6 @@
+AAPL AMZN UA WMT PSX GS FB DPS empty empty empty empty 
+CAH FB COST DE GM HD PM DIS empty empty empty empty 
+V WM TXN KO SBUX AAPL empty empty empty empty empty empty 
+PG NVDA MS MCD JNJ empty empty empty empty empty empty empty 
+AAPL empty empty empty empty empty empty empty empty empty empty empty 
+

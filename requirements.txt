@@ -1,0 +1,5 @@
+PyQt4
+pandas_datareader
+pandas
+numpy == 1.12
+
